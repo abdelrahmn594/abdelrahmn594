@@ -13,4 +13,7 @@
 <a href="https://codeforces.com/profile/abdelrahman594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdelrahman594" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmn594&show_icons=true&locale=en&layout=compact&theme=dark" alt="abdelrahmn594" /></p>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmn594&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&exclude_repo=github-readme-stats" alt="abdelrahmn594" />
+</p>
+
