@@ -13,6 +13,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmn594&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&repo=Repo1,Repo2,Repo3&cache_seconds=21600" alt="abdelrahmn594" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmn594&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&text_color=ffffff&repo=Repo1,Repo2,Repo3&cache_seconds=21600" alt="abdelrahmn594" />
 </p>
+
+
 
