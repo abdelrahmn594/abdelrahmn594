@@ -38,7 +38,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmn594&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&text_color=ffffff&repo=Repo1,Repo2,Repo3&cache_seconds=21600" alt="abdelrahmn594" />
 </p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-emad-669a32240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-emad-669a32240/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelrahman-emad-669a32240/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-emad-669a32240" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdelrahmanemad594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdelrahmanemad594" height="30" width="40" /></a>
 
 
