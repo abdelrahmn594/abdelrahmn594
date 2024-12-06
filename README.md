@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Emad</h1>
 <h2 align="center">Junior Computer Science & Artificial Intelligence Student</h2>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Scientist</h3>
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <h3 align="left">Languages and Tools:</h3>
